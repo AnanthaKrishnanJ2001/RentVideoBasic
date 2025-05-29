@@ -33,7 +33,7 @@ RentVideo is a Spring Boot-based RESTful API for managing an online video rental
 - Spring Data JPA
 - MySQL
 - Lombok
-- Maven
+- Gradle
 
 ---
 
